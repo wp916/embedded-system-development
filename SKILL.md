@@ -4,6 +4,7 @@ description: 规划、生成或改造基于 STM32CubeMX、HAL 和 FreeRTOS 的�
 ---
 
 An open-source skill by [@wp916](https://github.com/wp916).
+build by Harbin Institute of Technology, State Key Laboratory of Robotics and Systems, wang peng(wangp916@163.com).
 
 # STM32 机器人控制系统开发
 
