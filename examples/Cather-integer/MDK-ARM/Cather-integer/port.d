@@ -1,0 +1,12 @@
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+cather-integer\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cather-integer\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cather-integer\port.o: ../Core/Inc/FreeRTOSConfig.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+cather-integer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

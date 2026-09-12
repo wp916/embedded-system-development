@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 机器人控制系统开发"
+  short_description: "用于机器人硬件规划、分层架构搭建与 STM32 控制固件开发"
+  default_prompt: "使用 $embedded-system-development 规划并搭建 STM32 机器人控制系统。"

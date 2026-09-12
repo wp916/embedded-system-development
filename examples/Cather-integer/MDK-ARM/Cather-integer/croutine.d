@@ -1,0 +1,14 @@
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+cather-integer\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cather-integer\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cather-integer\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+cather-integer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
